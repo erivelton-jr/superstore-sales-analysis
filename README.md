@@ -29,7 +29,7 @@ https://github.com/erivelton-jr/superstore-sales-analysis/raw/refs/heads/main/Sa
 - Seaborn 🎨
 - NumPy 🔢
 - Datetime ⏳
-- Jupyter Notebook
+- Google Colab ♾
 
 ---
 
@@ -56,20 +56,6 @@ O projeto identifica tendências de crescimento nas vendas por segmento e aprese
 - Estados e cidades com maior concentração de vendas.
 - Impacto da política de desconto simulada.
 - Subcategorias com maior relevância no faturamento.
-
----
-
-## 📎 Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/erivelton-jr/superstore-sales-analysis.git
-```
-
-2. Execute o notebook:
-```bash
-jupyter notebook superstore_sales_analysis.ipynb
-```
 
 ---
 
